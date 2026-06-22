@@ -144,21 +144,9 @@
                       "required":  true
                   },
                   {
-                      "path":  "Wastes/TH_Wastes_SC.ogg",
-                      "url":  "https://github.com/VoidDevel0per/Survsnore/releases/download/1.0.0/Wastes/TH_Wastes_SC.ogg",
-                      "sha256":  "3e937af7114f77c6656b1d7a3b613936aef26b926738088f6e5ca16a8b9e994b",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Wastes/TH_Wastes_WB.ogg",
-                      "url":  "https://github.com/VoidDevel0per/Survsnore/releases/download/1.0.0/Wastes/TH_Wastes_WB.ogg",
-                      "sha256":  "307491d6f792d0e6ac29f98b5627cc29d4b2a0541fff3a46f183bb11510776ef",
-                      "required":  true
-                  },
-                  {
                       "path":  "manifest.json",
                       "url":  "https://github.com/VoidDevel0per/Survsnore/releases/download/1.0.0/manifest.json",
-                      "sha256":  "e2a6fcc27cc439fc9c6e7ab359f76389e430911ac4659b50e359b2ea01fbc44c",
+                      "sha256":  "1ba70d90a85fd1d95e20e444a7adcc2e89d325d9aea2e07a1a4ee5ad69377611",
                       "required":  true
                   }
               ],
