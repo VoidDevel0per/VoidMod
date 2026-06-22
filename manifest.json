@@ -8,7 +8,7 @@
                   {
                       "path":  "VoidModStuff.dll",
                       "url":  "https://github.com/VoidDevel0per/Survsnore/releases/download/1.0.0/VoidModStuff.dll",
-                      "sha256":  "928aff0d5bba9a93b466948bf62897cf510f9938c90b6df0f54178a430ad08da",
+                      "sha256":  "0541a24b45972998d45489102bb50116b752a9ac6304e48c96a65a06f5a48b42",
                       "required":  true
                   },
                   {
@@ -146,7 +146,7 @@
                   {
                       "path":  "manifest.json",
                       "url":  "https://github.com/VoidDevel0per/Survsnore/releases/download/1.0.0/manifest.json",
-                      "sha256":  "1ba70d90a85fd1d95e20e444a7adcc2e89d325d9aea2e07a1a4ee5ad69377611",
+                      "sha256":  "79f3f702490cb88d0473207f1809910175ea228087eab97c8525052badde6349",
                       "required":  true
                   }
               ],
