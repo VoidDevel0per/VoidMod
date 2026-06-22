@@ -8,7 +8,7 @@
                   {
                       "path":  "VoidModStuff.dll",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/tag/1.0.0/VoidModStuff.dll",
-                      "sha256":  "5b717ef42e6f46ba2cc53d6b1fc825a178e18e62888253f6248818e3059a86c6",
+                      "sha256":  "2ce55952c68b720abe306520469f9c320b72ba51d1d8c2a2688093f2aa62b71d",
                       "required":  true
                   },
                   {
@@ -141,6 +141,18 @@
                       "path":  "Wastes/LA_Wastes.ogg",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/tag/1.0.0/Wastes/LA_Wastes.ogg",
                       "sha256":  "269a1435121c3d492ea29bf663de7b015871a0cac8fe3ae1729b45f8c82918c5",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Wastes/TH_Wastes_SC.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/tag/1.0.0/Wastes/TH_Wastes_SC.ogg",
+                      "sha256":  "3e937af7114f77c6656b1d7a3b613936aef26b926738088f6e5ca16a8b9e994b",
+                      "required":  true
+                  },
+                  {
+                      "path":  "Wastes/TH_Wastes_WB.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/tag/1.0.0/Wastes/TH_Wastes_WB.ogg",
+                      "sha256":  "307491d6f792d0e6ac29f98b5627cc29d4b2a0541fff3a46f183bb11510776ef",
                       "required":  true
                   }
               ],
