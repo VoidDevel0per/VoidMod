@@ -8,7 +8,7 @@
                   {
                       "path":  "VoidModStuff.dll",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/tag/1.0.0/VoidModStuff.dll",
-                      "sha256":  "64ab11e9847690b9ae64479b6e080ea10b87d8c623b3132787d99997c1637a1d",
+                      "sha256":  "dd2c87684900ccd014b2587c937e5a58e8534740f0da187600df55624cbe259d",
                       "required":  true
                   },
                   {
