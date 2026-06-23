@@ -1,149 +1,150 @@
 ﻿{
     "changelog":  [
-                      "Removed patch that tampered with the temperature system.",
-                      "added update checking!",
+                      "added updater YAY!",
                       "Reimplemented tutorial changes.",
-                      "Added an alternative way of dying to water :3c"
+                      "Added an alternative way of dying to water :3c",
+                      "Added an option in the settings to disable water logic. Will do nothing if you\u0027re ingame. Idiot..",
+                      "Trader music replaced for layer 1."
                   ],
     "files":  [
                   {
                       "path":  "VoidModStuff.dll",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/VoidModStuff.dll",
-                      "sha256":  "0418b7cdfa6d3df89b495b42b60b0cfd3c4ea0e20cfae7f47d8ccfed863d295a",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/VoidModStuff.dll",
+                      "sha256":  "224894a9081d4abe4b06f2fdfdc9e0128d3925e5dd21e81983416f2c802ef3b8",
                       "required":  true
                   },
                   {
                       "path":  "Desert/LA_Desert.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/LA_Desert.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/LA_Desert.ogg",
                       "sha256":  "3151213d1ac53b151cefa9d8cd68326302582111206e6d948ca67ed3c735159e",
                       "required":  true
                   },
                   {
                       "path":  "Desert/TH_Desert_SC.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_Desert_SC.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_Desert_SC.ogg",
                       "sha256":  "1a133ca166ecc7bc4fe81fb2162d879413feb26bf0e1b7653f80e7d86758f124",
                       "required":  true
                   },
                   {
                       "path":  "Desert/TH_Desert_WB.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_Desert_WB.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_Desert_WB.ogg",
                       "sha256":  "d3dfa10fdac01dee97d8b10508310bfe1b01bdb7928b2ddf8c2216827c5d2599",
                       "required":  true
                   },
                   {
                       "path":  "DGravelLands/LA_DGravelLands.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/LA_DGravelLands.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/LA_DGravelLands.ogg",
                       "sha256":  "5b073ddfefd37f48d55b1dbde465f3643957e18695fe5b867cc8cafc795ea5bc",
                       "required":  true
                   },
                   {
                       "path":  "DGravelLands/TH_DGravel_CT.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_DGravel_CT.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_DGravel_CT.ogg",
                       "sha256":  "491f0f1fa8ca4e19881a83761e04d6af9fc27c866e90e172fd66ece514cb1b64",
                       "required":  true
                   },
                   {
                       "path":  "DGravelLands/TH_DGravel_SC.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_DGravel_SC.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_DGravel_SC.ogg",
                       "sha256":  "6fcd14e91d4818e5678529419fd6f00ab592d4cd707b32af5c6ef9180acea1a5",
                       "required":  true
                   },
                   {
                       "path":  "GravelLands/LA_GravelLands.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/LA_GravelLands.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/LA_GravelLands.ogg",
                       "sha256":  "def0b96a1e796605e5d685091ffb291bf52152ab1d0a12ae2abfb2f0e6c9f636",
                       "required":  true
                   },
                   {
                       "path":  "GravelLands/TH_GravelLands_SC.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_GravelLands_SC.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_GravelLands_SC.ogg",
                       "sha256":  "0986d5e88d60df61b24d871cf7b79ea57b58f935e69b40a6c7f8cb3b79989259",
                       "required":  true
                   },
                   {
                       "path":  "GravelLands/TR_Moondown.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TR_Moondown.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TR_Moondown.ogg",
                       "sha256":  "07a023119161239c745319d62d163ced709e5b542af8e31c519ec2001cd4df6f",
                       "required":  true
                   },
                   {
                       "path":  "Save/drone.wav",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/drone.wav",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/drone.wav",
                       "sha256":  "c35269f4ab03193fc14bd64430b3b48a3cf630803bc50e4c86e0ead3d5749224",
                       "required":  true
                   },
                   {
                       "path":  "Save/him_laugh.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/him_laugh.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/him_laugh.ogg",
                       "sha256":  "489e183b20a4f465de157fe947fc77ae930d9bff2dc352aa95da66bdf3b2f4dd",
                       "required":  true
                   },
                   {
                       "path":  "Save/revive.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/revive.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/revive.ogg",
                       "sha256":  "6ae4f3b0ae7da2ca6dec6754ed536e6ac2048d6515a3003f1cb4db4d03c7c42a",
                       "required":  true
                   },
                   {
                       "path":  "Save/soggy.jpg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/soggy.jpg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/soggy.jpg",
                       "sha256":  "fb7bfb969430f8704e6a64096a29673d6ba0dc7b16c8606d3fb760ce07784d03",
                       "required":  true
                   },
                   {
                       "path":  "Tutorial/LA_Tutorial.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/LA_Tutorial.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/LA_Tutorial.ogg",
                       "sha256":  "acfbb77961e41f021d6506872664477e19e6db1a5dfed5b986db1a008f66364d",
                       "required":  true
                   },
                   {
                       "path":  "Tutorial/TH_Tutorial_SC.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_Tutorial_SC.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_Tutorial_SC.ogg",
                       "sha256":  "e529a9eb4fd2f9463c23f271354ab11b4800854988d35d3f933af4928aaa9b0d",
                       "required":  true
                   },
                   {
                       "path":  "Tutorial/TH_Tutorial_TB.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_Tutorial_TB.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_Tutorial_TB.ogg",
                       "sha256":  "e5aa6c649bea408e88ef0a2a1e6be0737e36db557aac1abda8ecf21cec14b66d",
                       "required":  true
                   },
                   {
                       "path":  "Tutorial/TH_Tutorial_WB.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_Tutorial_WB.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_Tutorial_WB.ogg",
                       "sha256":  "ffb15154dbdb242b8107109f6b8f3566634e89124a9cad28af451ba67ac0c48e",
                       "required":  true
                   },
                   {
                       "path":  "Undergrowth/LA_Undergrowth.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/LA_Undergrowth.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/LA_Undergrowth.ogg",
                       "sha256":  "d6cbf2bcf0f1592d8219d5d14262859ad1a07a7a5f1f406a229ab6f3906b2a3c",
                       "required":  true
                   },
                   {
                       "path":  "Undergrowth/TH_Undergrowth_TB.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_Undergrowth_TB.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_Undergrowth_TB.ogg",
                       "sha256":  "d25edd9805f65e9cf7aac649ba05a0573542184cd121deaa9d2603dd27283978",
                       "required":  true
                   },
                   {
                       "path":  "Wastes/LA_Wastes.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/LA_Wastes.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/LA_Wastes.ogg",
                       "sha256":  "269a1435121c3d492ea29bf663de7b015871a0cac8fe3ae1729b45f8c82918c5",
                       "required":  true
                   },
                   {
                       "path":  "Wastes/TH_Wastes_SC.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_Wastes_SC.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_Wastes_SC.ogg",
                       "sha256":  "3e937af7114f77c6656b1d7a3b613936aef26b926738088f6e5ca16a8b9e994b",
                       "required":  true
                   },
                   {
                       "path":  "Wastes/TH_Wastes_WB.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.1/TH_Wastes_WB.ogg",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.2/TH_Wastes_WB.ogg",
                       "sha256":  "307491d6f792d0e6ac29f98b5627cc29d4b2a0541fff3a46f183bb11510776ef",
                       "required":  true
                   }
               ],
-    "version":  "1.0.1"
+    "version":  "1.0.2"
 }
