@@ -1,15 +1,13 @@
 ﻿{
     "changelog":  [
-                      "Updated Last Stand",
-                      "Pawed at the code for handling trader music",
-                      "mrrp :3",
-                      "Patched 2nd way of dying crashing the game qmq"
+                      "Updated the updater to validate \u0026 check if dependencies are installed!",
+                      "Added a new liquid"
                   ],
     "files":  [
                   {
                       "path":  "VoidModStuff.dll",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/VoidModStuff.dll",
-                      "sha256":  "4c273b2e99cb5d1be1de41aadaec9ab58a764c7caaaf24979e342ecb33f222db",
+                      "sha256":  "992f255deffe5798e6efe63607560c5d884d85a8cedb4a7b51eceeec0cd94dbd",
                       "required":  true
                   },
                   {
@@ -67,66 +65,6 @@
                       "required":  true
                   },
                   {
-                      "path":  "Save/drone.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/drone.ogg",
-                      "sha256":  "926580ef618dc5c5ea84515365b9f138faf628fa947009ee407b173c3c4293fd",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Save/him_laugh.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/him_laugh.ogg",
-                      "sha256":  "489e183b20a4f465de157fe947fc77ae930d9bff2dc352aa95da66bdf3b2f4dd",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Save/revive.ogg",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/revive.ogg",
-                      "sha256":  "6ae4f3b0ae7da2ca6dec6754ed536e6ac2048d6515a3003f1cb4db4d03c7c42a",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Save/TY_gaster1.mp3",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/TY_gaster1.mp3",
-                      "sha256":  "83897769258fb26990f171214d0603893de234bd2227724c893f78251e9e5278",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Save/TY_gaster2.mp3",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/TY_gaster2.mp3",
-                      "sha256":  "3b3c72353796b28da29e04156f999679d4e08b47d1f2d0e7e72ffd5c715107f9",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Save/TY_gaster3.mp3",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/TY_gaster3.mp3",
-                      "sha256":  "3fb598258efc90fe7f96958cf6670b563e2cac5a570122b8af258437e638e281",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Save/TY_gaster4.mp3",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/TY_gaster4.mp3",
-                      "sha256":  "f7c967e1b88504a2bc03fd98ad21f8eabc4736d611d49f6329671fa84a9fd7d1",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Save/TY_gaster5.mp3",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/TY_gaster5.mp3",
-                      "sha256":  "dda7db531f7fcb08870e859e9c5e321e60f2827915c6dd6d1eb02d32326e9c07",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Save/TY_gaster6.mp3",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/TY_gaster6.mp3",
-                      "sha256":  "b06f215e589a94180d59db1f1d76947e20cde4bac1ca750cbbeb9d774e108c85",
-                      "required":  true
-                  },
-                  {
-                      "path":  "Save/TY_gaster7.mp3",
-                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/TY_gaster7.mp3",
-                      "sha256":  "81b2cb0b5928739caa2f0995b19fa806ad867aa867ac0d5220cc1b56fea5856f",
-                      "required":  true
-                  },
-                  {
                       "path":  "Tutorial/LA_Tutorial.ogg",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.0.5/LA_Tutorial.ogg",
                       "sha256":  "acfbb77961e41f021d6506872664477e19e6db1a5dfed5b986db1a008f66364d",
@@ -181,5 +119,20 @@
                       "required":  true
                   }
               ],
-    "version":  "1.0.5"
+    "dependencies":  [
+                         {
+                             "pluginPath":  "BepInEx/core/BepInEx.dll",
+                             "name":  "BepInEx",
+                             "minVersion":  "5.4.23.5",
+                             "required":  true
+                         },
+                         {
+                             "pluginPath":  "BepInEx/plugins/CUCoreLib.dll",
+                             "pluginGUID":  "net.cucorelib",
+                             "name":  "CUCoreLib",
+                             "minVersion":  "1.0.2",
+                             "required":  true
+                         }
+                     ],
+    "version":  "1.0.7"
 }
