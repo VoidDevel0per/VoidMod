@@ -133,6 +133,12 @@
                              "name":  "CUCoreLib",
                              "minVersion":  "1.0.3",
                              "required":  true
+                         },
+                         {
+                             "pluginPath":  "BepInEx/plugins/KrokMP/KrokoshaCasualitiesMP.dll",
+                             "pluginGUID":  "Krokosha_MP_CU",
+                             "name":  "KrokoshaMPMod",
+                             "minVersion":  "3.1.2"
                          }
                      ],
     "version":  "1.1.2"
