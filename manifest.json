@@ -1,12 +1,14 @@
 ﻿{
     "changelog":  [
-                      "HI ALSPRITE :3"
+                      "Added experimental multiplayer support for the music system, and also added some safeguarding for last stands.",
+                      "Added another water punishment :3",
+                      "Slightly adjusted spawn chances for Five Pebbles room."
                   ],
     "files":  [
                   {
                       "path":  "VoidModStuff.dll",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.1.0/VoidModStuff.dll",
-                      "sha256":  "471a3cd19831bbefd6603ca53e0e3dabecabeb027c6056ed705bb89e524f552e",
+                      "sha256":  "79e42d1558789747b880d98b9b25eb74a9c94137d370d1465e5df2b5ebc93ffc",
                       "required":  true
                   },
                   {
