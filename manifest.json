@@ -1,6 +1,6 @@
-﻿{
+{
     "changelog":  [
-                      "Updated multiplayer replication to be compatible with the new version of CasusltiesMP",
+                      "Updated multiplayer replication to be compatible with the new version of CasualtiesMPMP",
                       "Halycon Pearl should now have a chance to only appear in Milky trader inventories.",
                       "Halycon Pearl should now continually play if they naturally generate next to a Milky trader.",
                       "Halycon Pearl now reacts differently when wet, as opposed to not being wet. Try it out :3",
@@ -141,9 +141,9 @@
                              "required":  true
                          },
                          {
-                             "pluginPath":  "BepInEx/plugins/Together/CasusltiesMP.dll",
+                             "pluginPath":  "BepInEx/plugins/Together/CasualtiesMP.dll",
                              "pluginGUID":  "Krokosha_MP_CU",
-                             "name":  "CasusltiesMP",
+                             "name":  "CasualtiesMP",
                              "minVersion":  "5.2.0.0"
                          }
                      ],
