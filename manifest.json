@@ -1,6 +1,6 @@
 {
     "changelog":  [
-                      "Updated multiplayer replication to be compatible with the new version of CasualtiesMPMP",
+                      "Updated multiplayer replication to be compatible with the new version of CasusltiesMP",
                       "Halycon Pearl should now have a chance to only appear in Milky trader inventories.",
                       "Halycon Pearl should now continually play if they naturally generate next to a Milky trader.",
                       "Halycon Pearl now reacts differently when wet, as opposed to not being wet. Try it out :3",
@@ -8,13 +8,14 @@
                       "Thermoregulator now has sound cues depending on if it\u0027s cooling or heating.",
                       "Added a new wearable, AEGIS-9. I\u0027m sure you\u0027ll discover it soon enough eheheeh",
                       "Added Melatonin",
-                      "Removed Alsprite."
+                      "Removed Alsprite.",
+                      "Fixed Dependency check not working joycat"
                   ],
     "files":  [
                   {
                       "path":  "VoidModStuff.dll",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.2.0/VoidModStuff.dll",
-                      "sha256":  "d3ed391f8af8d5f6622146cf1528c708b1eb39ac857b130839fbcf968e7106dd",
+                      "sha256":  "0107cab293a1abc20500cde7a2d49000ed83ddf7537b742cb3dec15b2c44cb4d",
                       "required":  true
                   },
                   {
@@ -141,7 +142,7 @@
                              "required":  true
                          },
                          {
-                             "pluginPath":  "BepInEx/plugins/Together/CasualtiesMP.dll",
+                             "pluginPath":  "BepInEx/plugins/Together/CasusltiesMP.dll",
                              "pluginGUID":  "CasualtiesMP",
                              "name":  "CasualtiesMP",
                              "minVersion":  "5.2.0"
