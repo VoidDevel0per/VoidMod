@@ -142,7 +142,7 @@
                          },
                          {
                              "pluginPath":  "BepInEx/plugins/Together/CasualtiesMP.dll",
-                             "pluginGUID":  "Krokosha_MP_CU",
+                             "pluginGUID":  "CasualtiesMP",
                              "name":  "CasualtiesMP",
                              "minVersion":  "5.2.0"
                          }
