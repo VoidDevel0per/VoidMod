@@ -1,4 +1,4 @@
-{
+﻿{
     "changelog":  [
                       "Updated multiplayer replication to be compatible with the new version of CasusltiesMP",
                       "Halycon Pearl should now have a chance to only appear in Milky trader inventories.",
@@ -15,7 +15,7 @@
                   {
                       "path":  "VoidModStuff.dll",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.2.0/VoidModStuff.dll",
-                      "sha256":  "0107cab293a1abc20500cde7a2d49000ed83ddf7537b742cb3dec15b2c44cb4d",
+                      "sha256":  "961181515d89fe6f0f5a3364629bd37ccca4910e91479f2d991b9b84c7d2995a",
                       "required":  true
                   },
                   {
