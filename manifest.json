@@ -14,7 +14,7 @@
                   {
                       "path":  "VoidModStuff.dll",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.2.5/VoidModStuff.dll",
-                      "sha256":  "9efb38e79559c8c521a9d523f10454a548397f6c1ef37b5f50c4803c0a49613a",
+                      "sha256":  "6919303afe5a2e855a88d1cd2ff70398616dd35406a119489e140f95276ba065",
                       "required":  true
                   },
                   {
@@ -167,7 +167,7 @@
                              "pluginPath":  "BepInEx/plugins/CUCoreLib.dll",
                              "pluginGUID":  "net.cucorelib",
                              "name":  "CUCoreLib",
-                             "minVersion":  "1.1",
+                             "minVersion":  "1.1.0",
                              "required":  true
                          },
                          {
