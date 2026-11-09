@@ -6,6 +6,12 @@
                   ],
     "files":  [
                   {
+                      "path":  "Note to file changes.txt",
+                      "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.2.5/Note to file changes.txt",
+                      "sha256":  "273d4e8f76195929b24528d3fb831a8140824fe5d460aae5ebd152769b0d4866",
+                      "required":  true
+                  },
+                  {
                       "path":  "VoidModStuff.dll",
                       "url":  "https://github.com/VoidDevel0per/VoidMod/releases/download/1.2.5/VoidModStuff.dll",
                       "sha256":  "9efb38e79559c8c521a9d523f10454a548397f6c1ef37b5f50c4803c0a49613a",
